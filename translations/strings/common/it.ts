@@ -1,6 +1,6 @@
 export const it = {
     'common': {
-        'elastos-essentials': 'Elastos Essentials',
+        'elastos-essentials': 'Elastos Essentials 1',
 
         // Generic actions
         'delete': 'Elimina',
