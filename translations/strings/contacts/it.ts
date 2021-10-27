@@ -2,7 +2,7 @@ export const it = {
 
     'contacts': {
       /********** Global **********/
-      'anonymous-contact': 'Contatto anonimo 1',
+      'anonymous-contact': 'Contatto anonimo',
   
        /********** Prompts **********/
       'no-contacts-alert': 'Non hai nessun contatto con cui condividere!',
